@@ -1,0 +1,12 @@
+.container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    /* background-color: aliceblue; */
+    margin-top: 10px;
+}
+.product_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 20px;
+    column-gap: 10px;
+}

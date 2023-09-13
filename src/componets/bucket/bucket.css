@@ -1,0 +1,15 @@
+.heading{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.purchased_container{
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr;
+    margin-left: 5px;
+    margin-top: 5px;
+ 
+}
+.purchased_container img{
+    width: 100%;
+}
