@@ -1,7 +1,6 @@
 {
   "name": "shopfy",
   "version": "0.1.0",
-  "homepage": "https://github.com/ssenkaayi/react_projects/shopfy",
   "private": true,
   "dependencies": {
     "gh-pages": "^6.0.0",
